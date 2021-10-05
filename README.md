@@ -9,23 +9,25 @@ Nos diretórios deverão ser inseridos somente os arquivos fontes (arquivos com 
 ## Estrutura sugerida para o repositório (Pull request)
 
 - Nome do participante
-    - Projetos
+    
     readme_name.md
-        - Projeto_01
-        - Projeto_02
-        - Projeto_03
-        - Projeto_04
-    - Complementares
-        - complementar_01
-        - complementar_02
-        - complementar_03
-        - complementar_AVA1
-        - complementar_AVA2
+    - Semana 1
+        - Complementar_01
+        - RAP
+    - Semana 2
+        - Complementar_02
+        - RAP
+    - Semana 3
+        - Complementar_03
+        - RAP
+    - Semana 4
+        - Complementar_04
+        - RAP
 
 ## Importante!
 
 ```
-acessar semanalmente seu perfil no github
+acessar e publicar seus códigos públicos em seu perfil no github
 ```
 #- A construção de um arquivo Readme.md é necessária.
 #- Deverá constar um breve resumo, aspectos teóricos, ou até mesmo alguns comandos utilizados na preparação de seus projetos.
